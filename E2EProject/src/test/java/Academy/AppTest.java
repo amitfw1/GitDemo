@@ -14,5 +14,8 @@ public class AppTest {
 	@Test
 	public void shouldAnswerWithTrue() {
 		assertTrue(true);
+		System.out.println("PostJira1");
+		System.out.println("PostJira2");
+	
 	}
 }
